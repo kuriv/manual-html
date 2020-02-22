@@ -119,7 +119,6 @@
         * [title](docs/HTML 标签/title.md)
         * [tr](docs/HTML 标签/tr.md)
         * [track](docs/HTML 标签/track.md)
-        * [tt](docs/HTML 标签/tt.md)
         * [u](docs/HTML 标签/u.md)
         * [ul](docs/HTML 标签/ul.md)
         * [var](docs/HTML 标签/var.md)
