@@ -1,6 +1,6 @@
 # td
 
-> &lt;td&gt; 标签表示 &lt;table&gt; 标签中的单元格。
+> td 标签表示 table 标签中的单元格。
 
 语法：
 

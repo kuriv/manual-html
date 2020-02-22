@@ -1,6 +1,6 @@
 # tbody
 
-> &lt;tbody&gt; 标签组合了一个或者多个 &lt;tr&gt; 元素作为 &lt;table&gt; 元素的主体内容。
+> tbody 标签组合了一个或者多个 tr 元素作为 table 元素的主体内容。
 
 语法：
 

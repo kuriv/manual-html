@@ -1,6 +1,6 @@
 # thead
 
-> &lt;thead&gt; 标签定义了一组 HTML 表格的头。
+> thead 标签定义了一组 HTML 表格的头。
 
 语法：
 

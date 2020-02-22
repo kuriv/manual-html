@@ -102,7 +102,6 @@
         * [small](docs/HTML 标签/small.md)
         * [source](docs/HTML 标签/source.md)
         * [span](docs/HTML 标签/span.md)
-        * [strike](docs/HTML 标签/strike.md)
         * [strong](docs/HTML 标签/strong.md)
         * [style](docs/HTML 标签/style.md)
         * [sub](docs/HTML 标签/sub.md)
