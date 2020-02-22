@@ -1,4 +1,4 @@
-# &lt;thead&gt;
+# thead
 
 > &lt;thead&gt; 标签定义了一组 HTML 表格的头。
 
