@@ -1,19 +1,19 @@
 # section
 
-> section 标签表示文档中的一个独立部分。
+> section 标签定义了文档的某个区域。
 
 语法：
 
 ```html
 <section>
-    <h1>WWF</h1>
-    <p>The World Wide Fund for Nature (WWF) is....</p>
+    <h1>GitHub</h1>
+    <p>GitHub is a development platform inspired by the way you work.</p>
 </section>
 ```
 
 效果：
 
 <section>
-    <h1>WWF</h1>
-    <p>The World Wide Fund for Nature (WWF) is....</p>
+    <h1>GitHub</h1>
+    <p>GitHub is a development platform inspired by the way you work.</p>
 </section>

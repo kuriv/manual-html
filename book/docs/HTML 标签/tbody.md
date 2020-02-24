@@ -1,6 +1,6 @@
 # tbody
 
-> tbody 标签组合了一个或者多个 tr 元素作为 table 元素的主体内容。
+> tbody 标签用于组合 HTML 表格的主体内容。
 
 语法：
 

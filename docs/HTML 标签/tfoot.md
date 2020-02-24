@@ -1,6 +1,6 @@
 # tfoot
 
-> tfoot 标签表示 HTML 表格的页脚，该标签用于组合 HTML 表格中的表注内容。
+> tfoot 标签用于组合 HTML 表格的页脚内容。
 
 语法：
 

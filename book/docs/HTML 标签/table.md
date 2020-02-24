@@ -1,6 +1,6 @@
 # table
 
-> table 标签用来定义 HTML 表格，一个简单的 HTML 表格应该包括两行两列。
+> table 标签定义 HTML 表格。
 
 语法：
 

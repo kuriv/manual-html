@@ -6,18 +6,18 @@
 
 ```html
 <select>
-    <option value="volvo">Volvo</option>
-    <option value="saab">Saab</option>
-    <option value="mercedes">Mercedes</option>
-    <option value="audi">Audi</option>
+    <option value="Volvo">Volvo</option>
+    <option value="Saab">Saab</option>
+    <option value="Mercedes">Mercedes</option>
+    <option value="Audi">Audi</option>
 </select>
 ```
 
 效果：
 
 <select>
-    <option value="volvo">Volvo</option>
-    <option value="saab">Saab</option>
-    <option value="mercedes">Mercedes</option>
-    <option value="audi">Audi</option>
+    <option value="Volvo">Volvo</option>
+    <option value="Saab">Saab</option>
+    <option value="Mercedes">Mercedes</option>
+    <option value="Audi">Audi</option>
 </select>
