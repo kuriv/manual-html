@@ -5,8 +5,9 @@
 语法：
 
 ```html
-
+<object data="object.swf"></object>
 ```
 
 效果：
 
+<object data="object.swf"></object>

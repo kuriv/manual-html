@@ -11,7 +11,7 @@
         <base href="https://github.com/">
     </head>
     <body>
-        <img src="fluidicon.png">
+        <img src="fluidicon.png" alt="GitHub">
     </body>
 </html>
 ```

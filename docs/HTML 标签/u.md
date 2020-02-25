@@ -6,12 +6,12 @@
 
 ```html
 <p>
-    This is a <u>parragraph</u>.
+    This is a <u>parragraph</u> .
 </p>
 ```
 
 效果：
 
 <p>
-    This is a <u>parragraph</u>.
+    This is a <u>parragraph</u> .
 </p>

@@ -5,7 +5,7 @@
 语法：
 
 ```html
-<img src="https://github.com/fluidicon.png">
+<img src="https://github.com/fluidicon.png" alt="GitHub">
 ```
 
 效果：

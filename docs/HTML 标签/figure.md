@@ -6,12 +6,12 @@
 
 ```html
 <figure>
-    <img src="https://github.com/fluidicon.png">
+    <img src="https://github.com/fluidicon.png" alt="GitHub">
 </figure>
 ```
 
 效果：
 
 <figure>
-    <img src="https://github.com/fluidicon.png">
+    <img src="https://github.com/fluidicon.png" alt="GitHub">
 </figure>

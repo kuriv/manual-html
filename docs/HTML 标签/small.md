@@ -5,15 +5,15 @@
 语法：
 
 ```html
-<p>Copyright 2020 by Kuriv Vesti</p>
+<p>Copyright 2020 by Kuriv Vesti.</p>
 <p>
-    <small>Copyright 2020 by Kuriv Vesti</small>
+    <small>Copyright 2020 by Kuriv Vesti.</small>
 </p>
 ```
 
 效果：
 
-<p>Copyright 2020 by Kuriv Vesti</p>
+<p>Copyright 2020 by Kuriv Vesti.</p>
 <p>
-    <small>Copyright 2020 by Kuriv Vesti</small>
+    <small>Copyright 2020 by Kuriv Vesti.</small>
 </p>

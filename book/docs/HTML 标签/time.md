@@ -6,10 +6,10 @@
 
 ```html
 <p>We open at <time>10:00</time> every morning.</p>
-<p>I have a date on <time datetime="2020-02-14">Valentines day</time>.</p>
+<p>I have a date on <time datetime="2020-02-14">Valentines</time> day.</p>
 ```
 
 效果：
 
 <p>We open at <time>10:00</time> every morning.</p>
-<p>I have a date on <time datetime="2020-02-14">Valentines day</time>.</p>
+<p>I have a date on <time datetime="2020-02-14">Valentines</time> day.</p>

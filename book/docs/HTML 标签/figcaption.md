@@ -6,7 +6,7 @@
 
 ```html
 <figure>
-    <img src="https://github.com/fluidicon.png">
+    <img src="https://github.com/fluidicon.png" alt="GitHub">
     <figcaption>GitHub</figcaption>
 </figure>
 ```
@@ -14,6 +14,6 @@
 效果：
 
 <figure>
-    <img src="https://github.com/fluidicon.png">
+    <img src="https://github.com/fluidicon.png" alt="GitHub">
     <figcaption>GitHub</figcaption>
 </figure>
