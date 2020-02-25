@@ -1,6 +1,6 @@
 # button
 
-> button 标签用来设置 HTML 中的按钮。
+> button 标签定义一个按钮。
 
 语法：
 

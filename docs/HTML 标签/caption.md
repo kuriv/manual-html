@@ -1,6 +1,6 @@
 # caption
 
-> caption 标签表示 HTML 表格的标题，对表格的简单描述。
+> caption 标签定义表格的标题。
 
 语法：
 
