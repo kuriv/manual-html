@@ -5,13 +5,13 @@
 语法：
 
 ```html
-<video controls width="400">
+<video width="400" controls autoplay>
     <source src="video.mp4" type="video/mp4">
 </video>
 ```
 
 效果：
 
-<video controls width="400">
+<video width="400" controls autoplay>
     <source src="video.mp4" type="video/mp4">
 </video>

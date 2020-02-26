@@ -5,9 +5,9 @@
 语法：
 
 ```html
-<object data="object.swf"></object>
+<object data="object.mp3"></object>
 ```
 
 效果：
 
-<object data="object.swf"></object>
+<object data="object.mp3"></object>
