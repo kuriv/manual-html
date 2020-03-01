@@ -59,6 +59,7 @@
 * [legend](/docs/HTML 标签/legend.html)
 * [li](/docs/HTML 标签/li.html)
 * [link](/docs/HTML 标签/link.html)
+* [main](/docs/HTML 标签/main.html)
 * [map](/docs/HTML 标签/map.html)
 * [mark](/docs/HTML 标签/mark.html)
 * [meta](/docs/HTML 标签/meta.html)

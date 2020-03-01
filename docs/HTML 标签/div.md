@@ -6,14 +6,14 @@
 
 ```html
 <div>
-    <h3>这是一个在 div 元素中的标题。</h3>
-    <p>这是一个在 div 元素中的文本。</p>
+    <h3>This is a header.</h3>
+    <p>This is a paragraph.</p>
 </div>
 ```
 
 效果：
 
 <div>
-    <h3>这是一个在 div 元素中的标题。</h3>
-    <p>这是一个在 div 元素中的文本。</p>
+    <h3>This is a header.</h3>
+    <p>This is a paragraph.</p>
 </div>

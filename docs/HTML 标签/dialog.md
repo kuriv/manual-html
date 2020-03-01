@@ -1,13 +1,13 @@
 # dialog
 
-> dialog 标签定义一个对话框、确认框或窗口。
+> dialog 标签定义对话框或窗口。
 
 语法：
 
 ```html
 <table>
     <tr>
-        <th>January <dialog open>This is an open dialog window</dialog></th>
+        <th>January <dialog open>This is an open dialog window!</dialog></th>
         <th>February</th>
         <th>March</th>
     </tr>
@@ -23,7 +23,7 @@
 
 <table>
     <tr>
-        <th>January <dialog open>This is an open dialog window</dialog></th>
+        <th>January <dialog open>This is an open dialog window!</dialog></th>
         <th>February</th>
         <th>March</th>
     </tr>

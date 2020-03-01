@@ -5,19 +5,15 @@
 语法：
 
 ```html
-<article>
-    <header>
-        <h1>GitHub</h1>
-    </header>
+<header>
+    <h1>GitHub</h1>
     <p>GitHub is a development platform inspired by the way you work.</p>
-</article>
+</header>
 ```
 
 效果：
 
-<article>
-    <header>
-        <h1>GitHub</h1>
-    </header>
+<header>
+    <h1>GitHub</h1>
     <p>GitHub is a development platform inspired by the way you work.</p>
-</article>
+</header>

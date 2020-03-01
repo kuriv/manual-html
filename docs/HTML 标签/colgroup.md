@@ -7,8 +7,8 @@
 ```html
 <table>
     <colgroup>
-        <col span="2" style="background-color:red">
-        <col style="background-color:yellow">
+        <col span="2" style="background-color:red;">
+        <col style="background-color:yellow;">
     </colgroup>
     <tr>
         <th>ISBN</th>
@@ -27,8 +27,8 @@
 
 <table>
     <colgroup>
-        <col span="2" style="background-color:red">
-        <col style="background-color:yellow">
+        <col span="2" style="background-color:red;">
+        <col style="background-color:yellow;">
     </colgroup>
     <tr>
         <th>ISBN</th>

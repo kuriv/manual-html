@@ -61,6 +61,7 @@
         * [legend](docs/HTML 标签/legend.md)
         * [li](docs/HTML 标签/li.md)
         * [link](docs/HTML 标签/link.md)
+        * [main](docs/HTML 标签/main.md)
         * [map](docs/HTML 标签/map.md)
         * [mark](docs/HTML 标签/mark.md)
         * [meta](docs/HTML 标签/meta.md)
