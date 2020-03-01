@@ -5,15 +5,9 @@
 语法：
 
 ```html
-<p>该段落文字从左到右显示。</p>
-<p>
-    <bdo dir="rtl">该段落文字从右到左显示。</bdo>
-</p>
+<bdo dir="rtl">Here is some text.</bdo>
 ```
 
 效果：
 
-<p>该段落文字从左到右显示。</p>
-<p>
-    <bdo dir="rtl">该段落文字从右到左显示。</bdo>
-</p>
+<bdo dir="rtl">Here is some text.</bdo>

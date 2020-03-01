@@ -5,9 +5,9 @@
 语法：
 
 ```html
-The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.
+The <abbr title="People's Republic of China">PRC</abbr> was founded in 1949.
 ```
 
 效果：
 
-The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.
+The <abbr title="People's Republic of China">PRC</abbr> was founded in 1949.

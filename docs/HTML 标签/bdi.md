@@ -6,16 +6,14 @@
 
 ```html
 <ul>
-    <li>用户 <bdi>hrefs</bdi> ： 60 分</li>
-    <li>用户 <bdi>jdoe</bdi> ： 80 分</li>
-    <li>用户 <bdi>إيان</bdi> ： 90 分</li>
+    <li>Username <bdi>Bill</bdi> ： 80 points</li>
+    <li>Username <bdi>Steve</bdi> ： 78 points</li>
 </ul>
 ```
 
 效果：
 
 <ul>
-    <li>用户 <bdi>hrefs</bdi> ： 60 分</li>
-    <li>用户 <bdi>jdoe</bdi> ： 80 分</li>
-    <li>用户 <bdi>إيان</bdi> ： 90 分</li>
+    <li>Username <bdi>Bill</bdi> ： 80 points</li>
+    <li>Username <bdi>Steve</bdi> ： 78 points</li>
 </ul>

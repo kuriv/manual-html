@@ -5,13 +5,9 @@
 语法：
 
 ```html
-<address>
-    Written by <a href="mailto:example@example.com">Kuriv Vesti</a> .
-</address>
+<address>Written by <a href="mailto:example@example.com">Kuriv Vesti</a> .</address>
 ```
 
 效果：
 
-<address>
-    Written by <a href="mailto:example@example.com">Kuriv Vesti</a> .
-</address>
+<address>Written by <a href="mailto:example@example.com">Kuriv Vesti</a> .</address>

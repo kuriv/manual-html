@@ -5,13 +5,9 @@
 语法：
 
 ```html
-<blockquote cite="https://github.com/">
-    GitHub is a development platform inspired by the way you work.
-</blockquote>
+<blockquote>GitHub is a development platform inspired by the way you work.</blockquote>
 ```
 
 效果：
 
-<blockquote cite="https://github.com/">
-    GitHub is a development platform inspired by the way you work.
-</blockquote>
+<blockquote>GitHub is a development platform inspired by the way you work.</blockquote>

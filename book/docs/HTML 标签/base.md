@@ -8,7 +8,7 @@
 <!DOCTYPE html>
 <html lang="zh-cmn-Hans">
     <head>
-        <base href="https://github.com/">
+        <base href="https://github.com/" target="_blank">
     </head>
     <body>
         <img src="fluidicon.png" alt="GitHub">
