@@ -18,6 +18,7 @@
 效果：
 
 <canvas id="testCanvas"></canvas>
+
 <script type="text/javascript">
     var testCanvas = document.getElementById('testCanvas');
     var canvasContext = testCanvas.getContext('2d');
