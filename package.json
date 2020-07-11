@@ -1,7 +1,7 @@
 {
   "name": "manual-html",
-  "version": "1.0.7",
-  "description": "Git 手册",
+  "version": "1.0.8",
+  "description": "HTML 手册",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
