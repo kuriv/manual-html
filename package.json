@@ -1,6 +1,6 @@
 {
   "name": "manual-html",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "HTML 手册",
   "main": "index.js",
   "scripts": {
