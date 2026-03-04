@@ -1,10 +1,11 @@
 {
   "name": "manual-html",
-  "version": "1.0.10",
-  "description": "HTML 手册",
+  "version": "1.0.11",
+  "description": "HTML 全称 HyperText Markup Language ，超文本标记语言。它是一种用于创建网页的标准标记语言。",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gitbook serve ./ ./book"
   },
   "repository": {
     "type": "git",
